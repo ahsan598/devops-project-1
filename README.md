@@ -2,9 +2,9 @@
 
 This is Nodejs Project
 
+- This is a free style project to run Nodejs application
 - Running Jenkins server on AWS EC2 intance
 - Jenkins Plugins for GitHub & Docker
-- Free style project to run Nodejs application
 - Integrate GitHub with Jenkins to trigger pipeline whenever the changes are made
 - Containerize application to run on Docker
 - Dockerize Build, Deploy & Run Container from Jenkins
